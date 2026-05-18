@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 Watch a full demonstration of the platform in action, including the AI extracting data from a real commercial office blueprint:
 
-![BuilderAI Showcase Walkthrough](./public/test-pdfs/builder_ai_showcase.webp)
+![BuilderAI Showcase Walkthrough](./https://github.com/chandrakiran0711/BuilderAI/blob/master/builder_ai_showcase.webp)
 
 ## ✨ Features
 
